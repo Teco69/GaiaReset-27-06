@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Inventory System - Kinnly/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: "Assets/Scenes/Padr\xE3o/Menu.unity"
+    guid: b156bd021ca923c44b434b05c98e5b25
+  - enabled: 1
+    path: Assets/Scenes/Fase1/Jogo.unity
+    guid: 2ba027aa3d66f5946bfad19168452a8d
+  - enabled: 1
+    path: Assets/Scenes/Fase1/Enfermaria.unity
+    guid: a06e6a20eceb80f48a80b4b1042b5c81
+  - enabled: 1
+    path: Assets/Scenes/Fase1/JogoPos.unity
+    guid: ce27edd558f2b6344b002cec9d1be8b0
+  - enabled: 1
+    path: Assets/Scenes/Fase1/mapa.unity
+    guid: 6cd867a21ab8a9b42bf8f38b8cf93b96
+  - enabled: 1
+    path: Assets/Scenes/Fase1/Corredor.unity
+    guid: d69142b65fdc6364596dee34a6136065
+  - enabled: 1
+    path: Assets/Scenes/Fase1/Casa2.unity
+    guid: 45d62049d4baacd408c42d960229c91b
+  - enabled: 1
+    path: Assets/Scenes/Fase1/Manutencao.unity
+    guid: 5b5bd056609878b45b66fad5d9956219
+  - enabled: 1
+    path: Assets/Scenes/Fase1/Casa3.unity
+    guid: ba175e960fb0c1b4b9ebf64d110a4473
+  - enabled: 1
+    path: Assets/Scenes/Fase1/Casa1.unity
+    guid: 78f149bcc3898be4d83afeb67e049689
+  - enabled: 1
+    path: "Assets/Scenes/Padr\xE3o/FimDeJogo.unity"
+    guid: 97f9ed19aa47f3f498e846290a2e47b2
+  - enabled: 1
+    path: Assets/Scenes/Fase1/Catedral.unity
+    guid: 380138ba5cc94da46af821c7c6c30539
+  - enabled: 1
+    path: Assets/Scenes/Fase1/FimCap1.unity
+    guid: 5a78b26f8225dc5428de372aa1d99311
+  - enabled: 1
+    path: Assets/Scenes/Fase1/JogoPosXarope.unity
+    guid: 8b4c3be3f23932f4da3f58050df20d15
+  - enabled: 1
+    path: Assets/Scenes/Fase1/EnfermariaPos.unity
+    guid: 12ed5ba88cf20c84e89eb0cdb1cb136d
+  m_configObjects: {}

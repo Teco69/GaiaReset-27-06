@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33656f2db0cf6354183a02d1631bc760, type: 3}
+  m_Name: enfermariaDentro
+  m_EditorClassIdentifier: 
+  falas:
+  - personagem: {fileID: 11400000, guid: 7c59306fe4ffb5e47b5765cf29dc56a2, type: 2}
+    IdExpressao: 1
+    textoFalas:
+    - "Oh, campe\xE3o, j\xE1 disse que estou numa ressaca braba e voc\xEA continua
+      me questionando sem parar."
+  - personagem: {fileID: 11400000, guid: 44ffccd7c8eb8cb4f997d224be7d4383, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - "Hmm\u2026 Perd\xE3o, eu s\xF3 estou dizendo, isso me parece mais grave que
+      um mal-estar."
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - "*Josep finalmente me v\xEA parado pr\xF3ximo a porta, olha pra mim e acena "
+  - personagem: {fileID: 11400000, guid: 7c59306fe4ffb5e47b5765cf29dc56a2, type: 2}
+    IdExpressao: 1
+    textoFalas:
+    - "Vlad, meu fi, vem aqui que esse fedelho t\xE1 achando que eu n\xE3o aguento
+      uma tossezinha de nada."
+  - personagem: {fileID: 11400000, guid: 7c59306fe4ffb5e47b5765cf29dc56a2, type: 2}
+    IdExpressao: 3
+    textoFalas:
+    - "Lembra esse pentelho que eu j\xE1 fui coronel, isso n\xE3o \xE9 nada"
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - "*Stevan mal me olha, est\xE1 vidrado em dezenas de pap\xE9is jogados sob sua
+      mesa"
+  - personagem: {fileID: 11400000, guid: 44ffccd7c8eb8cb4f997d224be7d4383, type: 2}
+    IdExpressao: 4
+    textoFalas:
+    - 'Ok, tanto faz. De qualquer forma, com certeza um xarope pode aliviar sua dor,
+      Josep. '
+    - Vlad, preciso de um favor.
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 1
+    textoFalas:
+    - Seja breve.
+  - personagem: {fileID: 11400000, guid: 44ffccd7c8eb8cb4f997d224be7d4383, type: 2}
+    IdExpressao: 4
+    textoFalas:
+    - "O xarope est\xE1 na cidade vizinha, onde a radia\xE7\xE3o ainda n\xE3o est\xE1
+      forte\u2026 eu admiraria se voc\xEA conseguisse bus-"
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 1
+    textoFalas:
+    - "Estarei de volta em 30 minutos. Josep, escute as instru\xE7\xF5es do nosso
+      m\xE9dico."
+  falasSegundaOpc: []

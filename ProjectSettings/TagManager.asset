@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ItemDrop
+  - ItemPickup
+  - chao
+  - gota
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - chao
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: fundo
+    uniqueID: 2505210939
+    locked: 0
+  - name: Segundo
+    uniqueID: 2696623945
+    locked: 0
+  - name: Terceiro
+    uniqueID: 981319305
+    locked: 0
+  - name: Quarto
+    uniqueID: 51981085
+    locked: 0
+  - name: Quinto
+    uniqueID: 1090373973
+    locked: 0
+  - name: Sexto
+    uniqueID: 1455673115
+    locked: 0
+  - name: Setimo
+    uniqueID: 984866245
+    locked: 0
+  - name: Oitavo
+    uniqueID: 713301961
+    locked: 0

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33656f2db0cf6354183a02d1631bc760, type: 3}
+  m_Name: InicioFase2
+  m_EditorClassIdentifier: 
+  falas:
+  - personagem: {fileID: 11400000, guid: 44ffccd7c8eb8cb4f997d224be7d4383, type: 2}
+    IdExpressao: 2
+    textoFalas:
+    - "E a\xED, Vlad! Pode entrar"
+  - personagem: {fileID: 11400000, guid: 44ffccd7c8eb8cb4f997d224be7d4383, type: 2}
+    IdExpressao: 4
+    textoFalas:
+    - 'Investigando mais a fundo sobre a morte de Josep, achamos um defeito no traje. '
+    - "Observamos uma falha na m\xE1scara de oxig\xEAnio dele, e isso pode explicar
+      o que acarretou na doen\xE7a de Josep\u2026 "
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 4
+    textoFalas:
+    - "\xC9, eu sei, isso \xE9 ruim. Sem o traje n\xE3o teremos prote\xE7\xE3o na
+      parte externa da reserva. "
+  - personagem: {fileID: 11400000, guid: 44ffccd7c8eb8cb4f997d224be7d4383, type: 2}
+    IdExpressao: 2
+    textoFalas:
+    - "Entretanto, eu acho que tenho uma ideia do que pode ajudar a consert\xE1-lo
+      sem utilizar dos nossos recursos da reserva\u2026 "
+    - "Pode parecer simples, mas e se a gente procurasse pela pe\xE7a quebrada da
+      m\xE1scara de oxig\xEAnio?"
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - "Hm\u2026 considerando as condi\xE7\xF5es escassas dos nossos recursos, me
+      parece ser a nossa \xFAnica op\xE7\xE3o. "
+    - "Eu vou come\xE7ar procurando na casa de Josep. At\xE9 eu voltar, voc\xEA est\xE1
+      no comando. "
+  - personagem: {fileID: 11400000, guid: 44ffccd7c8eb8cb4f997d224be7d4383, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - Sim, senhor.
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - "Vou come\xE7ar as buscas pelo parque. Com sorte, estarei de volta antes de
+      anoitecer. "
+  falasSegundaOpc: []

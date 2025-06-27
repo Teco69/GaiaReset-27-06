@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33656f2db0cf6354183a02d1631bc760, type: 3}
+  m_Name: entregaxarope
+  m_EditorClassIdentifier: 
+  falas:
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - "\"Chego na enfermaria finalmente, mas n\xE3o sinto o mesmo ar agitado de antes\u2026
+      Stevan n\xE3o est\xE1 mais no seu posto\"\r\n\r\n "
+    - Pegue.
+    - "Eu sei o porqu\xEA voc\xEA est\xE1 t\xE3o doente, Josep\u2026 por que voc\xEA
+      fez isso, homem?! Por que ao menos n\xE3o contou para Stevan? Deve ter algo
+      que possamos fazer\u2026 "
+  - personagem: {fileID: 11400000, guid: 7c59306fe4ffb5e47b5765cf29dc56a2, type: 2}
+    IdExpressao: 4
+    textoFalas:
+    - "N\xE3o, Vlad\u2026 n\xE3o h\xE1 nada que possamos fazer. Minha expedi\xE7\xE3o
+      foi h\xE1 semanas atr\xE1s, quando eu percebi o erro no traje, j\xE1 era tarde\u2026 "
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - "Mas por que voc\xEA foi at\xE9 aquela \xE1rea? "
+  - personagem: {fileID: 11400000, guid: 7c59306fe4ffb5e47b5765cf29dc56a2, type: 2}
+    IdExpressao: 4
+    textoFalas:
+    - "Bom\u2026 eu fui fazer uma ronda por ali. Nunca se sabe, n\xE9, campe\xE3o.
+      \r"
+    - "N\xE3o se preocupe, Vlad\u2026 eu estou bem com isso\u2026 eu n\xE3o quero
+      preocupar ningu\xE9m com algo que j\xE1 \xE9 inevit\xE1vel. "
+  - personagem: {fileID: 11400000, guid: 3afa291a70257b047838529093a46d97, type: 2}
+    IdExpressao: 0
+    textoFalas:
+    - "\"Ser\xE1 que eu deveria contar para os outros? O que faria Josep arriscar
+      tanto sua vida assim?\""
+  falasSegundaOpc: []
